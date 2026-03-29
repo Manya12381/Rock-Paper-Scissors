@@ -58,34 +58,9 @@ An interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. T
 
 ## 📷 Screenshot
 
-## 📷 Screenshot
-
 ![Game Screenshot](rps.png)
 
 ---
-
-## 📚 What I Learned
-
-* DOM Manipulation
-* Event Handling
-* Game Logic Implementation
-* Git & GitHub usage
-
----
-
-## 👩‍💻 Author
-
-* Manya Rawat
-
-
----
-
-## 📷 Screenshot
-
-(Add your game screenshot here)
-
----
-
 ## 📚 What I Learned
 
 * DOM Manipulation
