@@ -1,2 +1,98 @@
-# Rock-Paper-Scissors
-"A simple Rock Paper Scissors game built using HTML, CSS, and JavaScript with score tracking and interactive UI."
+# 🎮 Rock Paper Scissors Game
+
+## 📌 Description
+
+An interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. The game allows users to play against the computer with real-time results and score tracking.
+
+---
+
+## 🚀 Features
+
+* 🎯 User vs Computer gameplay
+* 🔢 Live score tracking
+* ⚡ Instant result display
+* 🎨 Dynamic UI updates
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🌐 Live Demo
+
+👉 # 🎮 Rock Paper Scissors Game
+
+## 📌 Description
+
+An interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. The game allows users to play against the computer with real-time results and score tracking.
+
+---
+
+## 🚀 Features
+
+* 🎯 User vs Computer gameplay
+* 🔢 Live score tracking
+* ⚡ Instant result display
+* 🎨 Dynamic UI updates
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🌐 Live Demo
+
+👉 https://Manya12381.github.io/Rock-Paper-Scissors/
+
+---
+
+## 📷 Screenshot
+
+(Add your game screenshot here)
+
+---
+
+## 📚 What I Learned
+
+* DOM Manipulation
+* Event Handling
+* Game Logic Implementation
+* Git & GitHub usage
+
+---
+
+## 👩‍💻 Author
+
+* Manya Rawat
+
+
+---
+
+## 📷 Screenshot
+
+(Add your game screenshot here)
+
+---
+
+## 📚 What I Learned
+
+* DOM Manipulation
+* Event Handling
+* Game Logic Implementation
+* Git & GitHub usage
+
+---
+
+## 👩‍💻 Author
+
+* Manya Rawat
