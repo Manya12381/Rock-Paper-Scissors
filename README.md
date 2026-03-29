@@ -58,7 +58,9 @@ An interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. T
 
 ## 📷 Screenshot
 
-(Add your game screenshot here)
+## 📷 Screenshot
+
+![Game Screenshot](rps.png)
 
 ---
 
